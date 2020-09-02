@@ -1,13 +1,13 @@
 # Crosswork Custom Playbooks
 
-This repository contains Crosswork custom playbooks that can be used to interact with Crosswork Network Change Automation.
-Custom playbooks are created by the communities. Crosswork software ships with pre-defined playbooks, they are in the Crosswork-Playbook repository. Users can use them as examples to create custom playbooks.
+This repository contains Crosswork custom playbooks that can be used to interact with Cisco Crosswork Change Automation.
+Custom playbooks are created by the communities. Crosswork software ships with pre-defined playbooks, stored in the Crosswork-Playbook repository. Users can use them as examples to create custom playbooks.
 
 # Requirements
-Following are required to use the playbooks:
+The following are required to use the playbooks:
 
-* Cisco Crosswork Network Change Automation and Health Insights 3.0 +
-* Cisco NSO 4.5.5 +
+* Cisco Crosswork Network Change Automation and Health Insights 3.0 or later
+* Cisco NSO 4.5.5 or later
 
 
 ## Documentation:
@@ -17,7 +17,7 @@ Please refer to the documentation at the following link to understand how to use
 
 ## Usage
 
-Example usage of playbooks can be found in [Crosswok Postman Collection](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/postman-for-Cisco-Crosswork)
+Example usage of playbooks can be found in the [Crosswork Postman Collection](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/postman-for-Cisco-Crosswork)
 
 ## Contribution
 
